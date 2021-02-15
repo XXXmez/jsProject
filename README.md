@@ -1,1 +1,1 @@
-# jsProject
+# Javascript projects page
